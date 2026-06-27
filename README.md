@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/baco604/vunerability-management-program)**
 - **[BruteForceRemediation](https://github.com/baco604/BruteForceRemediation)**
+- **[PowerShellSuspiciousWebRequest](https://github.com/baco604/PowerShell-Suspicious-Web-Request)**
 
 <hr/>
 
