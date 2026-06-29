@@ -9,6 +9,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[BruteForceRemediation](https://github.com/baco604/BruteForceRemediation)**
 - **[PowerShellSuspiciousWebRequest](https://github.com/baco604/PowerShell-Suspicious-Web-Request)**
 
+## ⚠️ Security Operations (SOC), Incident Response, and Identity Threat Detection Projects
+
 <hr/>
 
 
