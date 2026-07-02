@@ -11,6 +11,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[PotentialImpossibleTravel](https://github.com/baco604/Potential-Impossible-Travel)**
 - **[BruteForceRemediation](https://github.com/baco604/BruteForceRemediation)**
 - **[PowerShellSuspiciousWebRequest](https://github.com/baco604/PowerShell-Suspicious-Web-Request)**
+- **[ThreatHuntingScenarioTOR](https://github.com/baco604/threat-hunting-scenario-tor)**
+
+
+
+https://github.com/baco604/threat-hunting-scenario-tor
 <hr/>
 
 
