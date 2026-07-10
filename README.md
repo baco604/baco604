@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[BruteForceRemediation](https://github.com/baco604/BruteForceRemediation)**
 - **[ThreatHuntingScenarioTOR](https://github.com/baco604/threat-hunting-scenario-tor)**
 
+## ⚙️ STIG Scans and Remedations
+- **[Windows11StigRemediation](https://github.com/baco604/windows11-stig-remediation)**
+
+
 <hr/>
 
 
