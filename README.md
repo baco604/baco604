@@ -15,6 +15,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚙️ STIG Scans and Remedations
 - **[Windows11StigRemediation](https://github.com/baco604/windows11-stig-remediation)**
 
+## 🎧 Help Desk & Identity Administration Projects
+- **[HelpDeskEntraID](https://github.com/baco604/HelpDeskEntraID)**
+
+
 
 <hr/>
 
